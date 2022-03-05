@@ -1,0 +1,11 @@
+{
+  "icalMaps": [
+    {
+      "icalUrl": "http://127.0.0.1/../../etc/passwd",
+      "planCode": "string"
+    }
+  ],
+  "larsHouseId": "string",
+  "partner": "DANCENTER",
+  "partnerHouseId": "string"
+}
